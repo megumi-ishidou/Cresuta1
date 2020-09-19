@@ -152,17 +152,15 @@ margin-right: 0;
   position: relative;
   background-size: cover;
   background-position: center;
-  
-  padding: 0;
-  margin: 0;
 }
 .fv img {
   height: 100vh;
   min-height: 550px;
   object-fit: cover;
-  
-  padding: 0;
+}
+.slider {
   margin: 0;
+  padding: 0;
 }
 .main-copy {
   position: absolute;
