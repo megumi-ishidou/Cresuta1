@@ -9,7 +9,7 @@ body {
   letter-spacing: .05em;
   color: #171717;
   font-family: 'Noto Serif', 'Noto Serif JP', serif;
-  list-style: none;
+  
 }
 img {
   width: 100%;
@@ -229,9 +229,11 @@ margin-right: 0;
 /* -------------------------- */
 .service-list {
   display: flex;
+  list-style: none;
 }
 .service-item {
   width: 33.3%;
+  list-style: none;
 }
 .service-item.service1 {
   background-image: url(../img/service-img01@2x.jpg);
