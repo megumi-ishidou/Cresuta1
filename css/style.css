@@ -243,6 +243,8 @@ margin-right: 0;
 .service-list {
   display: flex;
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 .service-item {
   width: 33.3%;
