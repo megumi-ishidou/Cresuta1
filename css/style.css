@@ -124,6 +124,7 @@ img {
 }
 .nav-list {
   display: flex;
+  list-style: none;
 }
 .nav-item {
  margin-right: 30px;
